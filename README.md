@@ -18,12 +18,17 @@
 
 ## 公开地址
 
+GitHub Pages（已启用，Source = `master` / `(root)`）：
+
+- 入口页：https://zhuxr-code.github.io/booksclean-legal/
 - 隐私政策：https://zhuxr-code.github.io/booksclean-legal/privacy_policy.html
 - 用户协议：https://zhuxr-code.github.io/booksclean-legal/terms_of_use.html
 
-备用直链（raw，需仓库公开）：
+备用 CDN（仓库公开即可取，国内一般可访问）：
 
-- https://raw.githubusercontent.com/ZhuXR-code/booksclean-legal/master/privacy_policy.txt
+- https://fastly.jsdelivr.net/gh/ZhuXR-code/booksclean-legal@master/privacy_policy.txt
+
+> `raw.githubusercontent.com` 域名在中国大陆常被连接重置，不建议作为商店填写地址。
 
 ## 更新方式
 
